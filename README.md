@@ -1,2 +1,1 @@
-# love
-only pages for my lover
+love.bobdong.cn
